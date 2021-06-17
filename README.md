@@ -51,7 +51,9 @@ Content is placed in the areas of the screen that contain columns.
 In responsive layouts, column width is defined with percentages, rather than fixed values. This allows content to adapt to any screen size. The number of columns displayed in the grid is determined by the breakpoint range, a range of predetermined screen sizes. A breakpoint can correspond with mobile, tablet, or other screen type.  
 
 
-![On mobile, at a breakpoint of 360 dp, this layout grid uses 4 columns.](https://lh6.googleusercontent.com/OmiIcXQx541B5U8hRz_7ggfPnshhPQtgQnWS6q7dikzo8pnYzygYsZwLr9MEFI8SIy37q9D1deNyYa3bCz6EAQ253G9b9OsAWUgWD5ehwDdvsDEbBV-w3ECJif-nqfFTr2f9Zi-D)
+![](https://lh6.googleusercontent.com/OmiIcXQx541B5U8hRz_7ggfPnshhPQtgQnWS6q7dikzo8pnYzygYsZwLr9MEFI8SIy37q9D1deNyYa3bCz6EAQ253G9b9OsAWUgWD5ehwDdvsDEbBV-w3ECJif-nqfFTr2f9Zi-D)
+
+On mobile, at a breakpoint of 360 dp, this layout grid uses 4 columns.
 
 #### **GUTTER**
 
@@ -60,14 +62,18 @@ A gutter is the space between columns that helps separate content. ****Gutter wi
 Wider gutters are more appropriate for larger screens, as they create more open space between columns.  
 
 
-![On mobile, at a breakpoint of 360 dp, this layout grid uses 16dp gutters.](https://lh5.googleusercontent.com/Ub11FoFsUY8AVqSR219sRl5rkUnnMgGNBbdXaMvswDHQNQik8EWyXeEqYzGke7S_4zbztWfT5fwVVrPNJFgJHqdnvBdIp3aTIe9KKs8zaJVmDBIzNADr9RjlTqHf-Ove7wr9Ud5M)
+![](https://lh5.googleusercontent.com/Ub11FoFsUY8AVqSR219sRl5rkUnnMgGNBbdXaMvswDHQNQik8EWyXeEqYzGke7S_4zbztWfT5fwVVrPNJFgJHqdnvBdIp3aTIe9KKs8zaJVmDBIzNADr9RjlTqHf-Ove7wr9Ud5M)
+
+On mobile, at a breakpoint of 360 dp, this layout grid uses 16dp gutters.
 
 #### **MARGIN**
 
 Margins are the space between content and the left and right edges of the screen.  
 Margin widths are defined using fixed or scaling values at each breakpoint range. To better adapt to the screen, the margin width can change at different breakpoints. Wider margins are more appropriate for larger screens, as they create more whitespace around the perimeter of content.
 
-![On mobile, at a breakpoint of 360 dp, this layout grid uses 16dp margins.](https://lh5.googleusercontent.com/XK6ZSdSs2X4RfDxh1M_BMlSVIzVh1wprpOWLVNoc1AR_3-2w3tOe9ivEBpu-cYm6xRFWhLG2B5C5ZwtglRDrMcbYoTLKSsiFryZYUXG0e14Mx-mN1hRX0h43SECbT2yK4YMK6IwK)
+![](https://lh5.googleusercontent.com/XK6ZSdSs2X4RfDxh1M_BMlSVIzVh1wprpOWLVNoc1AR_3-2w3tOe9ivEBpu-cYm6xRFWhLG2B5C5ZwtglRDrMcbYoTLKSsiFryZYUXG0e14Mx-mN1hRX0h43SECbT2yK4YMK6IwK)
+
+On mobile, at a breakpoint of 360 dp, this layout grid uses 16dp margins.
 
 **BREAKPOINTS**
 
