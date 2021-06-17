@@ -85,5 +85,34 @@ echo 'You got to trust me on this, I saved the world'
 ```
 {% endcode %}
 
+## **TEXT FIELD**
 
+\*\*\*\*
+
+| **Property** | **Slot** | **Event** |
+| :--- | :--- | :--- |
+| Background color | Append icon | Focus |
+| Font color | Depend icon | Un Focus |
+| Border radius |  | InPut |
+| Border width |  | On change |
+| Box shadow |  |  |
+| Margin |  |  |
+| Padding |  |  |
+| Font size |  |  |
+| Dimension |  |  |
+| Loading |  |  |
+| Disable |  |  |
+| Size |  |  |
+| Disable |  |  |
+| Type |  |  |
+| Placeholder |  |  |
+| Validate |  |  |
+
+
+
+![](https://lh6.googleusercontent.com/umLH9sJ0N1hytgdtYhr6X7LX649qaevyJ5OXNoKPk8MEzDWAgGeQXMlXKvtAfLoeVurNOecZSctM9IPwVzd9oS9JO4oQudKCyw_UnwuokhZP-vkBI_QzPE_E1UPWS0kgDGTTeZhh)
+
+```css
+Code mẫu ở đây
+```
 
