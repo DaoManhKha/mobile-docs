@@ -28,7 +28,9 @@ The 4pt grid system uses multiple sets of columns and rows based on the arithmet
 
 All components align to an 8dp square baseline grid for mobile, tablet, and desktop.
 
-![Icons, type, and some elements within components can align to a 4dp grid.](https://lh4.googleusercontent.com/n1Znkdd9e_wGpajLg89iCa73cWQmbIUTNLHtvDHxdh_sexn3AVBz0zslBItV72GafrNtfkmdhy4FkufZlPxKoKmHkTa0BelMJEtLQTekyTrcD1vMYLeMSndodQ67aQ0toicZ1_NS)
+![](https://lh4.googleusercontent.com/n1Znkdd9e_wGpajLg89iCa73cWQmbIUTNLHtvDHxdh_sexn3AVBz0zslBItV72GafrNtfkmdhy4FkufZlPxKoKmHkTa0BelMJEtLQTekyTrcD1vMYLeMSndodQ67aQ0toicZ1_NS)
+
+Icons, type, and some elements within components can align to a 4dp grid.
 
 ![](https://lh3.googleusercontent.com/t8YA93Lq96mlPTd2h8TzqUd_4zlaq26jCSpZNgELZgqokjnW4Hnw7fxDv_XwaluonM5W6CBBSwsCFnFHUV9ri8b93JSeusIWV4Y7ASY_blJ7ULjB5JY9U8S5wFkQqYvP20IrZMpQ)
 
