@@ -163,3 +163,124 @@ Code mẩu ở đây
 
 ![](https://lh6.googleusercontent.com/O7jUI4AsHHXAZX539Fwf-F9gSuOx2_BL-r1mHC6rkWk6t4jHKtgS7-JSArbZ_v4GAcXD5azjEEuvgCIPjihbiJNVbSX8u1Kt-HDLHB9tqTsWx_0fcorCtV_nujS73nZTjjvPjYEx)
 
+## **MAIN MENU**
+
+**Example**
+
+![](https://lh4.googleusercontent.com/6o3-tOepBaEddMrn_1XkeEZALLRW2tck4FzEL2tEwFshqaFj4yKo3H8JmHsuEuJ0LCgwBV9oBEKGh-vOz2nyS3ulyZ4aZYH0tZtDEXrtOYRRlt67Cb5pioKFkV41079hbAhNPUoJ)
+
+## **USER**
+
+| **Property** | **Slot** | **Event** |
+| :--- | :--- | :--- |
+| Avatar |  |  |
+| User id |  |  |
+| Type |  |  |
+
+**Example**
+
+![](https://lh5.googleusercontent.com/-O4DLxstQwgJYs-DdEbtw-BcnE7OgSpK1hjMYW6AqlIZCgOR09oK5vACYIqHxlHk-ZnTyzRbH7tJ4cAdU5d7dPVtyY6YohN8qzhr6ZYU27c3dcn5bL4X511gDSWlflN_nbGOQewD)
+
+## **DATE PICKERS**
+
+| **Property** | **Slot** | **Event** |
+| :--- | :--- | :--- |
+| **From date** |  | **Change** |
+| **To date** |  |  |
+| **Type** |  |  |
+
+**Example**
+
+![](https://lh5.googleusercontent.com/MOm-nKdQOLPpbyud8QoM1Rk0peyXaXM7m2ECBxYYteSgzS4Gl8noBrkUvndiuvAYY8a8EPusJ9OWtAXiACqOg6OUQNwokfJQllhQCOoQTPA7P3UgIwda3ks5jlK-iViSx_O9nmoY)
+
+## **BOTTOM SHEET**
+
+| **Property** | **Slot** | **Event** |
+| :--- | :--- | :--- |
+| Height | Header | Open |
+| Overlay | Content | Close |
+
+**Example**
+
+![](https://lh4.googleusercontent.com/8HPRhqzxbXuW9ucoL-L9xnSY1OLvm2-W5tA0wR9UawuSo0oJFVfWc72O2QG2HKfztmYUZjvrdXVt9b_pY7VnxRrF20zBHRoUQPdEJJ1juKxFXbYMZlSI8Od2a__MQ3yoLjzqQQr4)
+
+## **TAB**
+
+| **Property** | **Slot** | **Event** |
+| :--- | :--- | :--- |
+| Items | Append | Click |
+| Type | Depend |  |
+
+**Example**
+
+![](https://lh5.googleusercontent.com/f_KTDkmWDC74X8a0GVDMm0UNYHxp5Ifghwm8R8IX9-vYMzNnZhtIJghf5ZJLCTJtEs6UjewAnQ9Zxno54pGXHYIws7635caYH9eTZ2dXhtg8RgqNMxBeKRJKHeygCpZEk3qk5-HB)
+
+## **SEPARATOR**
+
+| **Property** | **Slot** | **Event** |
+| :--- | :--- | :--- |
+| **Type** | **Append** |  |
+|  | **Depend** |  |
+
+**Example**
+
+![](https://lh4.googleusercontent.com/Q3HK3BY6YP_tR6nLzX0ZsvIwYe4r5L87U2l_IYptUkwjXmHATr8r_G7RyAZUviWpp_W3EA7FIqSVvaL-e3cIIY35tGA0R8DxIzZ2MhmQsrndCgloqyvrRd4BIfw-dzgDgh0-82ti)
+
+## **CHIP**
+
+| **Property** | **Slot** | **Event** |
+| :--- | :--- | :--- |
+| Background color |  |  |
+| Font color |  |  |
+| Border radius |  |  |
+| Border width |  |  |
+| Font size |  |  |
+| Margin |  |  |
+| Padding |  |  |
+| Dimension |  |  |
+| Size |  |  |
+
+**Example**
+
+![](https://lh4.googleusercontent.com/BnQM-pLgtokXLQy9nz3DFP61TzWhYi8N6T1xHsLu2x_DmfLwvE4jXUukr755lOwZXhKFAr7YmFFhNvM36ODgrg-GPIEqKmgUNeDH7Hvm78clMXvOWL1yvjMd2K-561ACxMN6Kn0W)
+
+## **IMAGE**
+
+| **Property** | **Slot** | **Event** |
+| :--- | :--- | :--- |
+| Border radius |  | Click |
+| Border width |  |  |
+| Box shadow |  |  |
+| Margin |  |  |
+| Default icon |  |  |
+| Dimension |  |  |
+| Size |  |  |
+
+**Example**
+
+![](https://lh5.googleusercontent.com/9iI98fWHU1j_sW5b87k4vr9BkssOcAiHlEX0TupUV-tdVWJf54XwCv7Cogx-_H7tJy67eX_84Fnfc2Ws3JPdgEKZh2cUoGxbcm8SS8f0_-Ka6wtOSy6Uk6jGiwRfEY7sXNqh0iv0)
+
+## **SLIDE SHOW**
+
+| **Property** | **Slot** | **Event** |
+| :--- | :--- | :--- |
+| Item |  | Click |
+|  |  | Drag |
+
+**Example**
+
+![](https://lh4.googleusercontent.com/N3RCnnegmm_cB_1SDewd1RohQi6YMaUY1fA-Y7toxMEBjHtU3OfQsAmv0u5kd5_sqi-z9JKYzIcvy0wamGe278m1_5MSeFs7fhRxCJGKTKRPg7WQ_Jrzs8Ae8NI_sWZQunt4kauS)
+
+## **PROGRESS**
+
+| **Property** | **Slot** | **Event** |
+| :--- | :--- | :--- |
+| **Dimension** |  |  |
+| **Color** |  |  |
+| **Type** |  |  |
+| **Margin** |  |  |
+
+**Example**
+
+![](https://lh3.googleusercontent.com/U0O6pnwhdN94C_-72jsIeQWQR4dt3XUBBIOjYf9W22ghXl05Q73F0nt9G1GGMjY6IS-khwfzrBapQJpN0CgBy41j5McJ0A7BFyCSQKJ9_CONmuvYSlucMdyQjo4XDvmKghpsbP1R)
+
