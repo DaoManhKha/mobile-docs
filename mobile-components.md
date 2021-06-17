@@ -78,13 +78,6 @@ Code mẫu ở đây
 
 ![](https://lh5.googleusercontent.com/9PGqoZqolYO38Yyf9WGa0id_Mq0yT_AmtjdtJVtRVNqFf9oEibC6AzRx6_pNapOMtJkjlz4ugF1JUt3PqLiVb0cVXO4dc9RgNluquAuU0xRA63Z_GkMPa3D1yg-xrpDl83nklSFb)
 
-{% code title="hello.sh" %}
-```bash
-# Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the world'
-```
-{% endcode %}
-
 ## **TEXT FIELD**
 
 \*\*\*\*
