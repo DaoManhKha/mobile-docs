@@ -163,11 +163,20 @@ Code mẩu ở đây
 
 ![](https://lh6.googleusercontent.com/O7jUI4AsHHXAZX539Fwf-F9gSuOx2_BL-r1mHC6rkWk6t4jHKtgS7-JSArbZ_v4GAcXD5azjEEuvgCIPjihbiJNVbSX8u1Kt-HDLHB9tqTsWx_0fcorCtV_nujS73nZTjjvPjYEx)
 
+```css
+Code mẫu ở đây
+```
+
 ## **MAIN MENU**
 
 **Example**
 
 ![](https://lh4.googleusercontent.com/6o3-tOepBaEddMrn_1XkeEZALLRW2tck4FzEL2tEwFshqaFj4yKo3H8JmHsuEuJ0LCgwBV9oBEKGh-vOz2nyS3ulyZ4aZYH0tZtDEXrtOYRRlt67Cb5pioKFkV41079hbAhNPUoJ)
+
+```css
+Code mẫu ở đây
+
+```
 
 ## **USER**
 
@@ -181,17 +190,25 @@ Code mẩu ở đây
 
 ![](https://lh5.googleusercontent.com/-O4DLxstQwgJYs-DdEbtw-BcnE7OgSpK1hjMYW6AqlIZCgOR09oK5vACYIqHxlHk-ZnTyzRbH7tJ4cAdU5d7dPVtyY6YohN8qzhr6ZYU27c3dcn5bL4X511gDSWlflN_nbGOQewD)
 
+```css
+Code mẫu ở đây
+```
+
 ## **DATE PICKERS**
 
 | **Property** | **Slot** | **Event** |
 | :--- | :--- | :--- |
-| **From date** |  | **Change** |
-| **To date** |  |  |
-| **Type** |  |  |
+| From date |  | Change |
+| To date |  |  |
+| Type |  |  |
 
 **Example**
 
 ![](https://lh5.googleusercontent.com/MOm-nKdQOLPpbyud8QoM1Rk0peyXaXM7m2ECBxYYteSgzS4Gl8noBrkUvndiuvAYY8a8EPusJ9OWtAXiACqOg6OUQNwokfJQllhQCOoQTPA7P3UgIwda3ks5jlK-iViSx_O9nmoY)
+
+```css
+Code mẫu ở đây
+```
 
 ## **BOTTOM SHEET**
 
