@@ -101,11 +101,65 @@ Code mẫu ở đây
 | Placeholder |  |  |
 | Validate |  |  |
 
-
+**Example**
 
 ![](https://lh6.googleusercontent.com/umLH9sJ0N1hytgdtYhr6X7LX649qaevyJ5OXNoKPk8MEzDWAgGeQXMlXKvtAfLoeVurNOecZSctM9IPwVzd9oS9JO4oQudKCyw_UnwuokhZP-vkBI_QzPE_E1UPWS0kgDGTTeZhh)
 
 ```css
 Code mẫu ở đây
 ```
+
+## **SLIDE**
+
+| **Font color** | **Depend icon** | **Un Focus** |
+| :--- | :--- | :--- |
+| Color |  |  |
+| Selected color |  |  |
+| Size |  |  |
+
+**Example**
+
+\*\*\*\*
+
+![](https://lh5.googleusercontent.com/ZYCbIUVsAqclPYDWm__gJs2DqA41hojhPz01mU2Ja5mUuaYhH1d69FaAbB0t6POcqRRUciUl41l1j9HBAnKlLLs88AGv_tA2ieoXDxpS3azWzY4ReJotBVCq7pdOKtP3a2UXtP2a)
+
+```css
+Code mẫu ở đây
+```
+
+## **TOGGLE SWITCH**
+
+| **Property** | **Slot** | **Event** |
+| :--- | :--- | :--- |
+| Title |  | Change |
+| Background color |  |  |
+| Font color |  |  |
+| Border radius |  |  |
+| Border width |  |  |
+| Font size |  |  |
+| Margin |  |  |
+| Disable |  |  |
+
+**Example**
+
+![](https://lh6.googleusercontent.com/d3OUpYfxRw7PVKiKwkXDqNxt2F5sUtqKKlnCbx0_lR80dx--UkDWHYlDtU7N2t-HEwu-nmwy1X3nB0Z0o1DiPSmq8812km2Wa5n6-ExThv6SNfR7neBVdVwosDP-YcVAllhNqxAa)
+
+```css
+Code mẩu ở đây
+```
+
+## **DIALOG**
+
+| **Property** | **Slot** | **Event** |
+| :--- | :--- | :--- |
+| Box shadow | Content |  |
+| Size | Button |  |
+| Dimension |  |  |
+| Margin |  |  |
+| Padding |  |  |
+| Title |  |  |
+
+**Example**
+
+![](https://lh6.googleusercontent.com/O7jUI4AsHHXAZX539Fwf-F9gSuOx2_BL-r1mHC6rkWk6t4jHKtgS7-JSArbZ_v4GAcXD5azjEEuvgCIPjihbiJNVbSX8u1Kt-HDLHB9tqTsWx_0fcorCtV_nujS73nZTjjvPjYEx)
 
